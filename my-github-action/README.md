@@ -53,3 +53,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+
+## Additional Files
+
+The following additional file is included in this repository:
+
+### package.json
+
+```json
+{
+  "scripts": {
+    "build": "your-build-command"
+  }
+}
+```
